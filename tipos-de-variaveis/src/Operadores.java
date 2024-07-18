@@ -23,7 +23,7 @@ public class Operadores {
 
         String nomeUm = "David";
 
-        String nomeDois = new String("David");
+        String nomeDois = new String("David ");
 
         System.out.println(nomeUm == nomeDois); //so serve em vaariaveis
         System.out.println(nomeUm.equals(nomeDois)); // usado para comparar objetos
