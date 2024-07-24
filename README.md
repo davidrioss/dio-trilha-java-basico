@@ -3,6 +3,8 @@ Repositório de exemplos do curso de java básico da DIO
 
 repositorio da DIO:
 https://github.com/digitalinnovationone/trilha-java-basico
+
+repositorio collections:
 https://github.com/cami-la/collections-java-api-2023
 
 conteudo gitbook:
